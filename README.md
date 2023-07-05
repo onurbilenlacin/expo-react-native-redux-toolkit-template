@@ -1,1 +1,6 @@
-# expo-react-native-redux-toolkit-template
+# redux-toolkit-guide
+
+After cloned project to your local
+
+npm i
+npx expo start
